@@ -1,0 +1,9 @@
+os  # (part of Python standard library, does not need to be in requirements.txt)
+python-docx
+pandas
+faiss-cpu  # Use 'faiss-gpu' if using GPU version
+numpy
+sentence-transformers
+langchain-groq
+fastapi
+pydantic
